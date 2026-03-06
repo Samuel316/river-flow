@@ -1,5 +1,4 @@
-# Template Project
-
+# River Flow
 Real-time water level dashboard. Built with Python and Plotly, using the Environment Agency Flood Monitoring API. Automatically deployed via GitLab Pages. 
 
 ## Dependencies
