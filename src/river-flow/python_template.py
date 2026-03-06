@@ -2,8 +2,8 @@
 # coding=utf-8
 """
 Copyright Samuel Lloyd
-{Date}
-samueljohnlloyd12@gmail.com
+6/3/2026
+
 
 Parameters
 ----------
