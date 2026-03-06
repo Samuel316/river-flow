@@ -1,7 +1,7 @@
 [project]
-name = "template"
+name = "river-flow"
 version = "0.1.0"
-authors = [{ name = "Project Owner", email = "project_owner@email.uk" }]
+authors = [{ name = "Samuel Lloyd", email = "samueljohnlloyd12@gmail.com" }]
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
@@ -12,7 +12,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "http://www.project_webpage.here"
+Homepage = "https://github.com/Samuel316/river-flow"
 
 [tool.uv]
 dev-dependencies = [
@@ -20,7 +20,7 @@ dev-dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["template"]
+packages = ["river-flow"]
 
 [tool.setuptools.package-data]
 data = ["data/*"]
