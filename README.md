@@ -1,6 +1,6 @@
 # Template Project
 
-A simple Python project template, it's really only made to save me time when starting a new project, and remind me of my own current best practice. Rather than as an exemplar of actual best practice.
+Real-time water level dashboard. Built with Python and Plotly, using the Environment Agency Flood Monitoring API. Automatically deployed via GitLab Pages. 
 
 ## Dependencies
 
@@ -18,10 +18,9 @@ uv sync
 ## Project Structure
 
 ```
-TemplateProject/
+river-flow/
 ├── src/                  # Source code
 ├── tests/                # Unit tests
-├── requirements.txt      # Project dependencies
 ├── pyproject.toml        # Project metadata and build configuration
 └── README.md             # This file
 ```
